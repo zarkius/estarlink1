@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1004326199624",
+    "firebase_url": "https://hostinger-estarlink-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hostinger-estarlink",
+    "storage_bucket": "hostinger-estarlink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004326199624:android:a7ff30dd2aac5ca1e5537d",
+        "android_client_info": {
+          "package_name": "com.example.estarlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004326199624-etcd705j15736j655cqhd00gqpngqu3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHgpr2ueWwx81f8GPqpwBBfwgbVxe3Cyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004326199624-9ficao77d0s84rupb6gfvcua9rotchn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
